@@ -26,4 +26,6 @@ section p {
   font-weight: 400px;
   color: silver;
   margin-top: 16px;
+  padding: 0 15px 0 15px;
+  text-align: center;
 }

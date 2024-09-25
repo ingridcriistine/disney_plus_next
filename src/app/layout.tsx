@@ -1,5 +1,6 @@
 import localFont from "next/font/local";
-import "./globals.css";
+import "./globals.css"
+import Image from 'next/image';
 // import { Footer } from "@/components/footer";
 
 const geistSans = localFont({

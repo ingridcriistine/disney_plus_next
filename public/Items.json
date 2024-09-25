@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Filme 1",
+        "imageUrl": "../src/assets/logo.png"
+    },
+    {
+        "id": 2,
+        "title": "Filme 1",
+        "imageUrl": "../src/assets/logo.png"
+    }
+]
+
+  
