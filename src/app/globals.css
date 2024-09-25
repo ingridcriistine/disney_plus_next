@@ -5,4 +5,25 @@
 :root {
   --white: #ffffff;
   --black: #171717;
+  --blue: #02d6e8;
+  --gray: #ebe8e8;
+}
+
+section h2 {
+  font-size: 32px;
+  font-weight: 700;
+  margin-top: 16px;
+}
+
+section h3 {
+  font-size: 24px;
+  font-weight: 400;
+  margin-top: 16px;
+}
+
+section p {
+  font-size: 16px;
+  font-weight: 400px;
+  color: silver;
+  margin-top: 16px;
 }
