@@ -7,11 +7,12 @@
   --black: #171717;
   --blue: #02d6e8;
   --gray: #ebe8e8;
+  --font: 
 }
 
 section h2 {
   font-size: 32px;
-  font-weight: 700;
+  font-weight: 500;
   margin-top: 16px;
 }
 
